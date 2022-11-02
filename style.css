@@ -1,6 +1,17 @@
-.sticky {
-    position: fixed;
-    width:100%;
-    /* z-index untuk memunculkan navbar ke paling depan karena z-index slider default nya 0 jadi berapapun ok asal lebih dr 0 */
-    z-index:1;
+body {
+    background-color:#EFEBFC;
+}
+h4{
+    margin: 50px
+}
+p {
+    border: 10px solid white;
+    padding: 30px;
+    background-color:#EFEBFC;
+    margin: 50px;
+}
+.nav-item {
+margin: 30px;
+background-color: wheat;
+
 }
