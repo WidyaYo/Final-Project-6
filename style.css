@@ -1,0 +1,6 @@
+.sticky {
+    position: fixed;
+    width:100%;
+    /* z-index untuk memunculkan navbar ke paling depan karena z-index slider default nya 0 jadi berapapun ok asal lebih dr 0 */
+    z-index:1;
+}
