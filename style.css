@@ -12,6 +12,15 @@ p {
 }
 .nav-item {
 margin: 30px;
-background-color: wheat;
+background-color: black;
 
 }
+
+.nav-link {
+    color: white !important;
+}
+
+ #scrollspyHeading1 {
+    color: white !important;
+    background-color: black;
+ }
