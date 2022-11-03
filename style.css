@@ -1,26 +1,43 @@
 body {
-    background-color:#EFEBFC;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h4{
-    margin: 50px
-}
+    
+
 p {
-    border: 10px solid white;
-    padding: 30px;
-    background-color:#EFEBFC;
+    border-width: 30px;
+    background-color: #F1ECFF;
+    padding: 30px ;
+    text-align: justify;
     margin: 50px;
 }
+
 .nav-item {
-margin: 30px;
-background-color: black;
+margin: 3px;
+background-color: none ;
+font-stretch: expanded;
 
 }
-
+/* list item navbar */
 .nav-link {
+    padding: 30px;
     color: white !important;
+    font-size: medium;
+    font-weight: bold; 
+    font-weight: 500;
 }
 
- #scrollspyHeading1 {
-    color: white !important;
-    background-color: black;
- }
+/* navbar */
+.nav nav-pills{
+    text-align: justify;
+       
+}
+/* judul section */
+h4 { 
+    font-weight: 300px;
+    text-align: center;
+    font-size: medium;
+}
+.data-bs-target {
+    background-color: none;
+}
+  
